@@ -18,4 +18,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Consulta de CEP](https://udemy-conversor-de-moedas.netlify.app/)
+- [Consulta de CEP](https://consulta-de-cep-via-api.netlify.app/)
